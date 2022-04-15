@@ -1,4 +1,4 @@
-# Global shifting using Multi-threading
+# Global shifting of file pointer using Multi-threading
 
 Description :- 
   This task main aim is to achive multi threading using pthreads in which 3 threads simultaneously read 3 lines, line by line of a text file and print histogram of characters with their frequencies for every line.
